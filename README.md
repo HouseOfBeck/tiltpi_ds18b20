@@ -41,6 +41,6 @@ file.
 
 5) Configure the MQTT node using the account information (username, password, broker IP and port) from step 1. The MQTT node will show a connected message when ready.
 
-6) Now you need a MQTT client. It's easiest to use one on your smartphone. TAndroid has one built in. If using an iPhone/iPad I recommend using [IoT OnOff](https://www.iot-onoff.com/)
+6) Now you need a MQTT client. It's easiest to use one on your smartphone. Android has one built in. If using an iPhone/iPad I recommend using [IoT OnOff](https://www.iot-onoff.com/)
 
 
